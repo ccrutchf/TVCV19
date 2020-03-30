@@ -1,0 +1,11 @@
+bin
+obj
+_Resharper*
+*.suo
+*.psess
+*.vsp
+*.user
+.vs
+node_modules
+.terraform
+.DS_Store

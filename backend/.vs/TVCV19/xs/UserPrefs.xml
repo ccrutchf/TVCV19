@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{210C966E-EA03-4AD5-B06B-E98E42FD32D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.HierarchyGraph.Api FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.VideoMonitoring.Api FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Messaging.Api/Controllers/VideoMonitoringController.cs">
+    <Files>
+      <File FileName="src/PatientAdmin.Api/Controllers/PatientController.cs" Line="34" Column="69" />
+      <File FileName="src/HierarchyGraph.Api/Controllers/HeirachyGraphController.cs" Line="20" Column="1" />
+      <File FileName="src/Messaging.Api/Controllers/VideoMonitoringController.cs" Line="18" Column="33" />
+      <File FileName="src/VideoMonitoring.Api/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TVCV19" expanded="True">
+            <Node name="Messaging.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="VideoMonitoringController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="VideoMonitoring.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PatientAdmin.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Messaging.Api FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
